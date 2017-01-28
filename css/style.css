@@ -1,0 +1,59 @@
+#main-content{
+width: 80%;
+margin: auto;
+}
+
+.logo{
+width: 100px;
+display: inline;
+}
+
+#name{
+text-align: right;
+color: #2d3c49;
+font-size: 30px;
+font-weight: ;
+}
+
+#designation{
+text-align: right;
+font-weight: bold;
+color: #2d3c49;
+}
+
+.line{
+border: none; 
+border-bottom: 4px solid #7d97ad;
+}
+
+.banner{
+width: 100%;
+}
+
+.no-margin{
+margin: 0px !important;
+padding: 0px !important;
+}
+
+.project-block{
+margin-bottom: 100px;
+}
+
+.project-image{
+width: 100%;
+}
+
+.project-title{
+text-align: center;
+color: #2d3c49;
+}
+
+.project-link{
+text-align: center;
+color: #7d97ad;
+cursor: pointer;
+}
+
+.description{
+text-align: justify;
+}
